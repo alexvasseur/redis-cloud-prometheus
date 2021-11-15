@@ -4,14 +4,14 @@
 
 A reverse proxy for Redis Enteprise Cloud Prometheus cluster endpoint that substitute ID to name.
 
-The name are looked up in Redis Enterprise Cloud API.
+The names are looked up in Redis Enterprise Cloud API.
 
 This ensures cluster/subscription and DB rebuilt are staying with stable names while having changing ID, which then ensures Grafana metrics stay stable.
 
-![architecture](doc/image001.png?raw=true)
 
 ## Doc
-TODO
+
+![architecture](doc/image001.png?raw=true)
 
 ## URL
 See source
