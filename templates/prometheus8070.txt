@@ -1,0 +1,1281 @@
+# HELP node_cpu_nice_min 
+# TYPE node_cpu_nice_min gauge
+node_cpu_nice_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_cpu_nice_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_cpu_nice_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_cpu_idle_max 
+# TYPE node_cpu_idle_max gauge
+node_cpu_idle_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.914
+node_cpu_idle_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.977
+node_cpu_idle_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.979
+# HELP node_egress_bytes 
+# TYPE node_egress_bytes gauge
+node_egress_bytes{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 132899.074
+node_egress_bytes{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 20935.666666666668
+node_egress_bytes{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 20548.667
+# HELP node_cpu_idle 
+# TYPE node_cpu_idle gauge
+node_cpu_idle{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.911
+node_cpu_idle{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.9763333333333333
+node_cpu_idle{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.9779999999999999
+# HELP node_cpu_irqs 
+# TYPE node_cpu_irqs gauge
+node_cpu_irqs{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0026666666666666666
+node_cpu_irqs{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0023333333333333335
+node_cpu_irqs{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.002
+# HELP node_ingress_bytes_median 
+# TYPE node_ingress_bytes_median gauge
+node_ingress_bytes_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 36432.333
+node_ingress_bytes_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 68355.667
+node_ingress_bytes_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 69977.444
+# HELP node_cpu_user 
+# TYPE node_cpu_user gauge
+node_cpu_user{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.046000000000000006
+node_cpu_user{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.011333333333333334
+node_cpu_user{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.010666666666666666
+# HELP node_cpu_irqs_min 
+# TYPE node_cpu_irqs_min gauge
+node_cpu_irqs_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.002
+node_cpu_irqs_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.002
+node_cpu_irqs_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.001
+# HELP node_ingress_bytes_min 
+# TYPE node_ingress_bytes_min gauge
+node_ingress_bytes_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 32340.667
+node_ingress_bytes_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 68053.111
+node_ingress_bytes_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 68271.667
+# HELP node_egress_bytes_max 
+# TYPE node_egress_bytes_max gauge
+node_egress_bytes_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 134288.111
+node_egress_bytes_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 23497.0
+node_egress_bytes_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 23303.889
+# HELP node_cpu_system_min 
+# TYPE node_cpu_system_min gauge
+node_cpu_system_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.019
+node_cpu_system_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.005
+node_cpu_system_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.005
+# HELP node_cpu_irqs_median 
+# TYPE node_cpu_irqs_median gauge
+node_cpu_irqs_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.002
+node_cpu_irqs_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.002
+node_cpu_irqs_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.002
+# HELP node_cpu_steal 
+# TYPE node_cpu_steal gauge
+node_cpu_steal{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_cpu_steal{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_cpu_steal{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_cpu_user_min 
+# TYPE node_cpu_user_min gauge
+node_cpu_user_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.041
+node_cpu_user_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.011
+node_cpu_user_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.009
+# HELP node_persistent_storage_free 
+# TYPE node_persistent_storage_free gauge
+node_persistent_storage_free{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 15503257600.0
+node_persistent_storage_free{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 55467311104.0
+node_persistent_storage_free{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 55467307008.0
+# HELP node_ephemeral_storage_free 
+# TYPE node_ephemeral_storage_free gauge
+node_ephemeral_storage_free{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 15503257600.0
+node_ephemeral_storage_free{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 55467311104.0
+node_ephemeral_storage_free{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 55467307008.0
+# HELP node_cpu_idle_median 
+# TYPE node_cpu_idle_median gauge
+node_cpu_idle_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.913
+node_cpu_idle_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.976
+node_cpu_idle_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.978
+# HELP node_provisional_memory_no_overbooking 
+# TYPE node_provisional_memory_no_overbooking gauge
+node_provisional_memory_no_overbooking{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_provisional_memory_no_overbooking{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 10568032366.222
+node_provisional_memory_no_overbooking{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 10682200954.667
+# HELP node_free_memory 
+# TYPE node_free_memory gauge
+node_free_memory{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 5821650716.444
+node_free_memory{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 13869482894.222
+node_free_memory{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 13879001543.111
+# HELP node_ingress_bytes 
+# TYPE node_ingress_bytes gauge
+node_ingress_bytes{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 35974.51866666666
+node_ingress_bytes{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 68492.29633333333
+node_ingress_bytes{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 69485.66666666667
+# HELP node_cpu_steal_median 
+# TYPE node_cpu_steal_median gauge
+node_cpu_steal_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_cpu_steal_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_cpu_steal_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_conns 
+# TYPE node_conns gauge
+node_conns{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_conns{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_conns{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_ephemeral_storage_avail 
+# TYPE node_ephemeral_storage_avail gauge
+node_ephemeral_storage_avail{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 14681174016.0
+node_ephemeral_storage_avail{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 52605120512.0
+node_ephemeral_storage_avail{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 52605116416.0
+# HELP node_cpu_nice 
+# TYPE node_cpu_nice gauge
+node_cpu_nice{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_cpu_nice{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_cpu_nice{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_cpu_system_median 
+# TYPE node_cpu_system_median gauge
+node_cpu_system_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.027
+node_cpu_system_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.005
+node_cpu_system_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.005
+# HELP node_ingress_bytes_max 
+# TYPE node_ingress_bytes_max gauge
+node_ingress_bytes_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 39150.556
+node_ingress_bytes_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 69068.111
+node_ingress_bytes_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 70207.889
+# HELP node_cpu_iowait 
+# TYPE node_cpu_iowait gauge
+node_cpu_iowait{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.001
+node_cpu_iowait{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0003333333333333333
+node_cpu_iowait{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0003333333333333333
+# HELP node_cpu_user_median 
+# TYPE node_cpu_user_median gauge
+node_cpu_user_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.047
+node_cpu_user_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.011
+node_cpu_user_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.011
+# HELP node_available_memory_no_overbooking 
+# TYPE node_available_memory_no_overbooking gauge
+node_available_memory_no_overbooking{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 5821867804.444
+node_available_memory_no_overbooking{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 13714292846.222
+node_available_memory_no_overbooking{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 13828461434.667
+# HELP node_cpu_nice_median 
+# TYPE node_cpu_nice_median gauge
+node_cpu_nice_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_cpu_nice_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_cpu_nice_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_total_req 
+# TYPE node_total_req gauge
+node_total_req{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_total_req{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_total_req{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_cur_aof_rewrites 
+# TYPE node_cur_aof_rewrites gauge
+node_cur_aof_rewrites{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_cur_aof_rewrites{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_cur_aof_rewrites{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_cpu_iowait_max 
+# TYPE node_cpu_iowait_max gauge
+node_cpu_iowait_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.002
+node_cpu_iowait_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.001
+node_cpu_iowait_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.001
+# HELP node_persistent_storage_avail 
+# TYPE node_persistent_storage_avail gauge
+node_persistent_storage_avail{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 14681174016.0
+node_persistent_storage_avail{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 52605120512.0
+node_persistent_storage_avail{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 52605116416.0
+# HELP node_available_memory 
+# TYPE node_available_memory gauge
+node_available_memory{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 5821867804.444
+node_available_memory{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 13869464689.778
+node_available_memory{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 13878952391.111
+# HELP node_egress_bytes_min 
+# TYPE node_egress_bytes_min gauge
+node_egress_bytes_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 132103.0
+node_egress_bytes_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 18557.889
+node_egress_bytes_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 17999.556
+# HELP node_cpu_user_max 
+# TYPE node_cpu_user_max gauge
+node_cpu_user_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.05
+node_cpu_user_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.012
+node_cpu_user_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.012
+# HELP node_cpu_steal_min 
+# TYPE node_cpu_steal_min gauge
+node_cpu_steal_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_cpu_steal_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_cpu_steal_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_cpu_irqs_max 
+# TYPE node_cpu_irqs_max gauge
+node_cpu_irqs_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.004
+node_cpu_irqs_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.003
+node_cpu_irqs_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.003
+# HELP node_cpu_steal_max 
+# TYPE node_cpu_steal_max gauge
+node_cpu_steal_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_cpu_steal_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_cpu_steal_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_cpu_iowait_min 
+# TYPE node_cpu_iowait_min gauge
+node_cpu_iowait_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_cpu_iowait_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_cpu_iowait_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_cpu_idle_min 
+# TYPE node_cpu_idle_min gauge
+node_cpu_idle_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.906
+node_cpu_idle_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.976
+node_cpu_idle_min{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.977
+# HELP node_cpu_system_max 
+# TYPE node_cpu_system_max gauge
+node_cpu_system_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.028
+node_cpu_system_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.006
+node_cpu_system_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.005
+# HELP node_cpu_iowait_median 
+# TYPE node_cpu_iowait_median gauge
+node_cpu_iowait_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.001
+node_cpu_iowait_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_cpu_iowait_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_cpu_nice_max 
+# TYPE node_cpu_nice_max gauge
+node_cpu_nice_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_cpu_nice_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.0
+node_cpu_nice_max{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.0
+# HELP node_cpu_system 
+# TYPE node_cpu_system gauge
+node_cpu_system{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.024666666666666667
+node_cpu_system{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 0.005333333333333333
+node_cpu_system{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 0.005
+# HELP node_provisional_memory 
+# TYPE node_provisional_memory gauge
+node_provisional_memory{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 0.0
+node_provisional_memory{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 10723204209.778
+node_provisional_memory{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 10732691911.111
+# HELP node_egress_bytes_median 
+# TYPE node_egress_bytes_median gauge
+node_egress_bytes_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1"} 132306.111
+node_egress_bytes_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2"} 20752.111
+node_egress_bytes_median{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3"} 20342.556
+# HELP master_registry_generation_time_seconds Collector execution time
+# TYPE master_registry_generation_time_seconds histogram
+master_registry_generation_time_seconds_bucket{le="0.005"} 0.0
+master_registry_generation_time_seconds_bucket{le="0.01"} 0.0
+master_registry_generation_time_seconds_bucket{le="0.025"} 3.0
+master_registry_generation_time_seconds_bucket{le="0.05"} 8957.0
+master_registry_generation_time_seconds_bucket{le="0.075"} 9091.0
+master_registry_generation_time_seconds_bucket{le="0.1"} 9108.0
+master_registry_generation_time_seconds_bucket{le="0.25"} 9110.0
+master_registry_generation_time_seconds_bucket{le="0.5"} 9111.0
+master_registry_generation_time_seconds_bucket{le="0.75"} 9111.0
+master_registry_generation_time_seconds_bucket{le="1.0"} 9112.0
+master_registry_generation_time_seconds_bucket{le="2.5"} 9112.0
+master_registry_generation_time_seconds_bucket{le="5.0"} 9112.0
+master_registry_generation_time_seconds_bucket{le="7.5"} 9112.0
+master_registry_generation_time_seconds_bucket{le="10.0"} 9112.0
+master_registry_generation_time_seconds_bucket{le="+Inf"} 9112.0
+master_registry_generation_time_seconds_count 9112.0
+master_registry_generation_time_seconds_sum 340.8784348964691
+# HELP bdb_mem_frag_ratio 
+# TYPE bdb_mem_frag_ratio gauge
+bdb_mem_frag_ratio{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 3.355
+bdb_mem_frag_ratio{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 2.345
+# HELP bdb_shard_cpu_user_max 
+# TYPE bdb_shard_cpu_user_max gauge
+bdb_shard_cpu_user_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.001
+bdb_shard_cpu_user_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_egress_bytes 
+# TYPE bdb_egress_bytes gauge
+bdb_egress_bytes{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_egress_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_read_req_max 
+# TYPE bdb_read_req_max gauge
+bdb_read_req_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_read_req_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_shard_cpu_user 
+# TYPE bdb_shard_cpu_user gauge
+bdb_shard_cpu_user{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0003333333333333333
+bdb_shard_cpu_user{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_read_misses_max 
+# TYPE bdb_read_misses_max gauge
+bdb_read_misses_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_read_misses_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_monitor_sessions_count 
+# TYPE bdb_monitor_sessions_count gauge
+bdb_monitor_sessions_count{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_monitor_sessions_count{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_write_req_max 
+# TYPE bdb_write_req_max gauge
+bdb_write_req_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_write_req_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_fork_cpu_system_max 
+# TYPE bdb_fork_cpu_system_max gauge
+bdb_fork_cpu_system_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_fork_cpu_system_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_main_thread_cpu_system_max 
+# TYPE bdb_main_thread_cpu_system_max gauge
+bdb_main_thread_cpu_system_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_main_thread_cpu_system_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.001
+# HELP bdb_write_res_max 
+# TYPE bdb_write_res_max gauge
+bdb_write_res_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_write_res_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_total_res_max 
+# TYPE bdb_total_res_max gauge
+bdb_total_res_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_total_res_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_no_of_keys 
+# TYPE bdb_no_of_keys gauge
+bdb_no_of_keys{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_no_of_keys{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_main_thread_cpu_user 
+# TYPE bdb_main_thread_cpu_user gauge
+bdb_main_thread_cpu_user{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0003333333333333333
+bdb_main_thread_cpu_user{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_mem_size_lua 
+# TYPE bdb_mem_size_lua gauge
+bdb_mem_size_lua{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 37888.0
+bdb_mem_size_lua{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 75776.0
+# HELP bdb_evicted_objects_max 
+# TYPE bdb_evicted_objects_max gauge
+bdb_evicted_objects_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_evicted_objects_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_write_req 
+# TYPE bdb_write_req gauge
+bdb_write_req{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_write_req{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_write_res 
+# TYPE bdb_write_res gauge
+bdb_write_res{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_write_res{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_used_memory 
+# TYPE bdb_used_memory gauge
+bdb_used_memory{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 2063424.0
+bdb_used_memory{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 6390080.0
+# HELP bdb_main_thread_cpu_user_max 
+# TYPE bdb_main_thread_cpu_user_max gauge
+bdb_main_thread_cpu_user_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.001
+bdb_main_thread_cpu_user_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_write_hits_max 
+# TYPE bdb_write_hits_max gauge
+bdb_write_hits_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_write_hits_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_ingress_bytes 
+# TYPE bdb_ingress_bytes gauge
+bdb_ingress_bytes{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_ingress_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_mem_not_counted_for_evict 
+# TYPE bdb_mem_not_counted_for_evict gauge
+bdb_mem_not_counted_for_evict{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_mem_not_counted_for_evict{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_conns 
+# TYPE bdb_conns gauge
+bdb_conns{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_conns{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_instantaneous_ops_per_sec 
+# TYPE bdb_instantaneous_ops_per_sec gauge
+bdb_instantaneous_ops_per_sec{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_instantaneous_ops_per_sec{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_fork_cpu_user_max 
+# TYPE bdb_fork_cpu_user_max gauge
+bdb_fork_cpu_user_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_fork_cpu_user_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_ingress_bytes_max 
+# TYPE bdb_ingress_bytes_max gauge
+bdb_ingress_bytes_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_ingress_bytes_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_total_connections_received 
+# TYPE bdb_total_connections_received gauge
+bdb_total_connections_received{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_total_connections_received{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_memory_limit 
+# TYPE bdb_memory_limit gauge
+bdb_memory_limit{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 106954752.0
+bdb_memory_limit{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 106954752.0
+# HELP bdb_pubsub_patterns 
+# TYPE bdb_pubsub_patterns gauge
+bdb_pubsub_patterns{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_pubsub_patterns{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_other_res 
+# TYPE bdb_other_res gauge
+bdb_other_res{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_other_res{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_other_req_max 
+# TYPE bdb_other_req_max gauge
+bdb_other_req_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_other_req_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_other_req 
+# TYPE bdb_other_req gauge
+bdb_other_req{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_other_req{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_read_res_max 
+# TYPE bdb_read_res_max gauge
+bdb_read_res_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_read_res_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_total_res 
+# TYPE bdb_total_res gauge
+bdb_total_res{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_total_res{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_expired_objects 
+# TYPE bdb_expired_objects gauge
+bdb_expired_objects{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_expired_objects{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_total_req 
+# TYPE bdb_total_req gauge
+bdb_total_req{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_total_req{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_write_misses_max 
+# TYPE bdb_write_misses_max gauge
+bdb_write_misses_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_write_misses_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_write_misses 
+# TYPE bdb_write_misses gauge
+bdb_write_misses{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_write_misses{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_expired_objects_max 
+# TYPE bdb_expired_objects_max gauge
+bdb_expired_objects_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_expired_objects_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_read_hits 
+# TYPE bdb_read_hits gauge
+bdb_read_hits{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_read_hits{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_evicted_objects 
+# TYPE bdb_evicted_objects gauge
+bdb_evicted_objects{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_evicted_objects{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_read_hits_max 
+# TYPE bdb_read_hits_max gauge
+bdb_read_hits_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_read_hits_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_fork_cpu_system 
+# TYPE bdb_fork_cpu_system gauge
+bdb_fork_cpu_system{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_fork_cpu_system{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_total_req_max 
+# TYPE bdb_total_req_max gauge
+bdb_total_req_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_total_req_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_pubsub_patterns_max 
+# TYPE bdb_pubsub_patterns_max gauge
+bdb_pubsub_patterns_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_pubsub_patterns_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_pubsub_channels 
+# TYPE bdb_pubsub_channels gauge
+bdb_pubsub_channels{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_pubsub_channels{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_shard_cpu_system 
+# TYPE bdb_shard_cpu_system gauge
+bdb_shard_cpu_system{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_shard_cpu_system{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0006666666666666666
+# HELP bdb_write_hits 
+# TYPE bdb_write_hits gauge
+bdb_write_hits{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_write_hits{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_up 
+# TYPE bdb_up gauge
+bdb_up{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",status="active"} 1.0
+bdb_up{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",status="active"} 1.0
+# HELP bdb_egress_bytes_max 
+# TYPE bdb_egress_bytes_max gauge
+bdb_egress_bytes_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_egress_bytes_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_no_of_expires 
+# TYPE bdb_no_of_expires gauge
+bdb_no_of_expires{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_no_of_expires{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_read_misses 
+# TYPE bdb_read_misses gauge
+bdb_read_misses{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_read_misses{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_main_thread_cpu_system 
+# TYPE bdb_main_thread_cpu_system gauge
+bdb_main_thread_cpu_system{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_main_thread_cpu_system{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0003333333333333333
+# HELP bdb_fork_cpu_user 
+# TYPE bdb_fork_cpu_user gauge
+bdb_fork_cpu_user{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_fork_cpu_user{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_pubsub_channels_max 
+# TYPE bdb_pubsub_channels_max gauge
+bdb_pubsub_channels_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_pubsub_channels_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_shard_cpu_system_max 
+# TYPE bdb_shard_cpu_system_max gauge
+bdb_shard_cpu_system_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_shard_cpu_system_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.001
+# HELP bdb_other_res_max 
+# TYPE bdb_other_res_max gauge
+bdb_other_res_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_other_res_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_read_req 
+# TYPE bdb_read_req gauge
+bdb_read_req{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_read_req{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_total_connections_received_max 
+# TYPE bdb_total_connections_received_max gauge
+bdb_total_connections_received_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_total_connections_received_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP bdb_read_res 
+# TYPE bdb_read_res gauge
+bdb_read_res{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+bdb_read_res{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com"} 0.0
+# HELP listener_acc_other_latency_max 
+# TYPE listener_acc_other_latency_max counter
+listener_acc_other_latency_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_acc_other_latency_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_cmd_touch_max 
+# TYPE listener_cmd_touch_max counter
+listener_cmd_touch_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_cmd_touch_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_egress_bytes 
+# TYPE listener_egress_bytes counter
+listener_egress_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_egress_bytes{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_read_req_max 
+# TYPE listener_read_req_max counter
+listener_read_req_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_read_req_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_max_connections_exceeded 
+# TYPE listener_max_connections_exceeded counter
+listener_max_connections_exceeded{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_max_connections_exceeded{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_write_req_max 
+# TYPE listener_write_req_max counter
+listener_write_req_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_write_req_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_write_res_max 
+# TYPE listener_write_res_max counter
+listener_write_res_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_write_res_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_write_started_res_max 
+# TYPE listener_write_started_res_max counter
+listener_write_started_res_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_write_started_res_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_total_res_max 
+# TYPE listener_total_res_max counter
+listener_total_res_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_total_res_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_acc_other_latency 
+# TYPE listener_acc_other_latency counter
+listener_acc_other_latency{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_acc_other_latency{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_total_started_res_max 
+# TYPE listener_total_started_res_max counter
+listener_total_started_res_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_total_started_res_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_total_started_res 
+# TYPE listener_total_started_res counter
+listener_total_started_res{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_total_started_res{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_other_req_max 
+# TYPE listener_other_req_max counter
+listener_other_req_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_other_req_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_write_req 
+# TYPE listener_write_req counter
+listener_write_req{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_write_req{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_write_res 
+# TYPE listener_write_res counter
+listener_write_res{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_write_res{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_cmd_flush_max 
+# TYPE listener_cmd_flush_max counter
+listener_cmd_flush_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_cmd_flush_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_cmd_touch 
+# TYPE listener_cmd_touch counter
+listener_cmd_touch{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_cmd_touch{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_auth_cmds 
+# TYPE listener_auth_cmds counter
+listener_auth_cmds{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_auth_cmds{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_ingress_bytes 
+# TYPE listener_ingress_bytes counter
+listener_ingress_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_ingress_bytes{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_acc_write_latency 
+# TYPE listener_acc_write_latency counter
+listener_acc_write_latency{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_acc_write_latency{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_conns 
+# TYPE listener_conns counter
+listener_conns{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_conns{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_write_started_res 
+# TYPE listener_write_started_res counter
+listener_write_started_res{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_write_started_res{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_acc_latency 
+# TYPE listener_acc_latency counter
+listener_acc_latency{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_acc_latency{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_acc_read_latency_max 
+# TYPE listener_acc_read_latency_max counter
+listener_acc_read_latency_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_acc_read_latency_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_ingress_bytes_max 
+# TYPE listener_ingress_bytes_max counter
+listener_ingress_bytes_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_ingress_bytes_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_total_connections_received 
+# TYPE listener_total_connections_received counter
+listener_total_connections_received{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_total_connections_received{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_last_req_time 
+# TYPE listener_last_req_time counter
+listener_last_req_time{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 1636051313.0
+listener_last_req_time{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_other_res 
+# TYPE listener_other_res counter
+listener_other_res{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_other_res{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_other_started_res_max 
+# TYPE listener_other_started_res_max counter
+listener_other_started_res_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_other_started_res_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_other_req 
+# TYPE listener_other_req counter
+listener_other_req{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_other_req{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_monitor_sessions_count 
+# TYPE listener_monitor_sessions_count counter
+listener_monitor_sessions_count{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_monitor_sessions_count{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_cmd_get 
+# TYPE listener_cmd_get counter
+listener_cmd_get{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_cmd_get{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_total_res 
+# TYPE listener_total_res counter
+listener_total_res{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_total_res{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_total_req 
+# TYPE listener_total_req counter
+listener_total_req{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_total_req{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_read_res_max 
+# TYPE listener_read_res_max counter
+listener_read_res_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_read_res_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_acc_latency_max 
+# TYPE listener_acc_latency_max counter
+listener_acc_latency_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_acc_latency_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_cmd_set 
+# TYPE listener_cmd_set counter
+listener_cmd_set{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_cmd_set{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_total_connections_received_max 
+# TYPE listener_total_connections_received_max counter
+listener_total_connections_received_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_total_connections_received_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_auth_cmds_max 
+# TYPE listener_auth_cmds_max counter
+listener_auth_cmds_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_auth_cmds_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_acc_write_latency_max 
+# TYPE listener_acc_write_latency_max counter
+listener_acc_write_latency_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_acc_write_latency_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_auth_errors_max 
+# TYPE listener_auth_errors_max counter
+listener_auth_errors_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_auth_errors_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_total_req_max 
+# TYPE listener_total_req_max counter
+listener_total_req_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_total_req_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_max_connections_exceeded_max 
+# TYPE listener_max_connections_exceeded_max counter
+listener_max_connections_exceeded_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_max_connections_exceeded_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_last_res_time 
+# TYPE listener_last_res_time counter
+listener_last_res_time{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 1636051313.0
+listener_last_res_time{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_cmd_flush 
+# TYPE listener_cmd_flush counter
+listener_cmd_flush{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_cmd_flush{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_acc_read_latency 
+# TYPE listener_acc_read_latency counter
+listener_acc_read_latency{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_acc_read_latency{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_read_started_res 
+# TYPE listener_read_started_res counter
+listener_read_started_res{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_read_started_res{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_egress_bytes_max 
+# TYPE listener_egress_bytes_max counter
+listener_egress_bytes_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_egress_bytes_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_cmd_set_max 
+# TYPE listener_cmd_set_max counter
+listener_cmd_set_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_cmd_set_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_auth_errors 
+# TYPE listener_auth_errors counter
+listener_auth_errors{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_auth_errors{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_other_started_res 
+# TYPE listener_other_started_res counter
+listener_other_started_res{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_other_started_res{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_read_started_res_max 
+# TYPE listener_read_started_res_max counter
+listener_read_started_res_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_read_started_res_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_cmd_get_max 
+# TYPE listener_cmd_get_max counter
+listener_cmd_get_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_cmd_get_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_other_res_max 
+# TYPE listener_other_res_max counter
+listener_other_res_max{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_other_res_max{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_read_req 
+# TYPE listener_read_req counter
+listener_read_req{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_read_req{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# HELP listener_read_res 
+# TYPE listener_read_res counter
+listener_read_res{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10696368:1",node="2",port="14452",proxy="10696368:1:2"} 0.0
+listener_read_res{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",endpoint="10697050:1",node="2",port="12134",proxy="10697050:1:2"} 0.0
+# Node stats: 1
+node_up{addr="192.168.0.2",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",cnm_version="6.2.4-54",node="1"} 1.0
+dmcproxy_process_virtual_memory_bytes{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1",proxy="1"} 324382720.0
+dmcproxy_process_resident_memory_bytes{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1",proxy="1"} 13602816.0
+dmcproxy_process_start_time_seconds{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1",proxy="1"} 1636050639.77
+dmcproxy_process_cpu_user_seconds_total{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1",proxy="1"} 58.85
+dmcproxy_process_cpu_system_seconds_total{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1",proxy="1"} 67.7
+dmcproxy_process_main_thread_cpu_user_seconds_total{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1",proxy="1"} 0.01
+dmcproxy_process_main_thread_cpu_system_seconds_total{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1",proxy="1"} 0.04
+dmcproxy_process_cpu_usage_percent{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1",proxy="1"} 0.0
+dmcproxy_process_max_fds{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1",proxy="1"} 500000.0
+dmcproxy_process_open_fds{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="1",proxy="1"} 73.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.005",node="1"} 9113.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.01",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.025",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.05",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.075",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.1",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.25",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.75",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="1.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="2.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="5.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="7.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="10.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="+Inf",node="1"} 9114.0
+collector_execution_time_seconds_count{collector="ShardCollector",node="1"} 9114.0
+collector_execution_time_seconds_sum{collector="ShardCollector",node="1"} 1.1602098941802979
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.005",node="1"} 6316.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.01",node="1"} 9063.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.025",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.05",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.075",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.1",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.25",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.75",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="1.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="2.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="5.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="7.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="10.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="+Inf",node="1"} 9114.0
+collector_execution_time_seconds_count{collector="DMCCollector",node="1"} 9114.0
+collector_execution_time_seconds_sum{collector="DMCCollector",node="1"} 44.608964681625366
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.005",node="1"} 8867.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.01",node="1"} 9099.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.025",node="1"} 9102.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.05",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.075",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.1",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.25",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.75",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="1.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="2.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="5.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="7.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="10.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="+Inf",node="1"} 9114.0
+collector_execution_time_seconds_count{collector="LocalNodeCollector",node="1"} 9114.0
+collector_execution_time_seconds_sum{collector="LocalNodeCollector",node="1"} 16.91606569290161
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.005",node="1"} 8052.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.01",node="1"} 9068.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.025",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.05",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.075",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.1",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.25",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.75",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="1.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="2.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="5.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="7.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="10.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="+Inf",node="1"} 9114.0
+collector_execution_time_seconds_count{collector="BDBCollector",node="1"} 9114.0
+collector_execution_time_seconds_sum{collector="BDBCollector",node="1"} 40.27534365653992
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.005",node="1"} 0.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.01",node="1"} 0.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.025",node="1"} 6984.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.05",node="1"} 9100.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.075",node="1"} 9110.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.1",node="1"} 9111.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.25",node="1"} 9112.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.5",node="1"} 9113.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.75",node="1"} 9113.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="1.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="2.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="5.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="7.5",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="10.0",node="1"} 9114.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="+Inf",node="1"} 9114.0
+collector_execution_time_seconds_count{collector="NodeCollector",node="1"} 9114.0
+collector_execution_time_seconds_sum{collector="NodeCollector",node="1"} 219.05933332443237
+local_registry_generation_time_seconds_bucket{le="0.005",node="1"} 3.0
+local_registry_generation_time_seconds_bucket{le="0.01",node="1"} 5433.0
+local_registry_generation_time_seconds_bucket{le="0.025",node="1"} 9071.0
+local_registry_generation_time_seconds_bucket{le="0.05",node="1"} 9112.0
+local_registry_generation_time_seconds_bucket{le="0.075",node="1"} 9112.0
+local_registry_generation_time_seconds_bucket{le="0.1",node="1"} 9112.0
+local_registry_generation_time_seconds_bucket{le="0.25",node="1"} 9112.0
+local_registry_generation_time_seconds_bucket{le="0.5",node="1"} 9112.0
+local_registry_generation_time_seconds_bucket{le="0.75",node="1"} 9112.0
+local_registry_generation_time_seconds_bucket{le="1.0",node="1"} 9112.0
+local_registry_generation_time_seconds_bucket{le="2.5",node="1"} 9112.0
+local_registry_generation_time_seconds_bucket{le="5.0",node="1"} 9112.0
+local_registry_generation_time_seconds_bucket{le="7.5",node="1"} 9112.0
+local_registry_generation_time_seconds_bucket{le="10.0",node="1"} 9112.0
+local_registry_generation_time_seconds_bucket{le="+Inf",node="1"} 9112.0
+local_registry_generation_time_seconds_count{node="1"} 9112.0
+local_registry_generation_time_seconds_sum{node="1"} 86.54353785514832
+# Node stats: 3
+redis_aof_rewrite_in_progress{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_mem_clients_normal{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 615320.0
+redis_mem_not_counted_for_evict{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_total_forks{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_sync_full{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_keyspace_write_hits{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_used_memory{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 3070160.0
+redis_total_error_replies{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_rdb_last_cow_size{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_master_sync_in_progress{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_sync_partial_ok{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_connected_clients{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 30.0
+redis_total_net_output_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 701625521.0
+redis_used_memory_scripts{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_master_repl_offset{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 380674.0
+redis_lazyfreed_objects{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_current_cow_size{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_repl_touch_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_maxclients{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 10000.0
+redis_rdb_last_save_time{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 1636050851.0
+redis_total_commands_processed{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 40904.0
+redis_instantaneous_ops_per_sec{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_aof_rewrites{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_mem_replication_backlog{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 1048576.0
+redis_module_fork_in_progress{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_total_connections_received{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 13641.0
+redis_pubsub_patterns{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_keyspace_read_hits{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_max_process_mem{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 12624021712.0
+redis_sync_partial_err{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_allocator_allocated{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 3466184.0
+redis_mem_clients_slaves{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_current_fork_perc{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_keyspace_write_misses{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_mem_aof_buffer{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_used_memory_peak{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 3293952.0
+redis_active_defrag_running{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_blocked_clients{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_pubsub_channels{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_allocator_active{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 4009984.0
+redis_connected_slaves{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_expire_cycle_cpu_milliseconds{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_used_memory_lua{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 37888.0
+redis_expired_keys{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_keys_trimmed{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_dump_payload_sanitizations{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_total_net_input_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 20753900.0
+redis_evicted_keys{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_rdb_saves{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_rdb_bgsave_in_progress{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_instantaneous_input_kbps{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.08
+redis_up{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 1.0
+redis_instantaneous_output_kbps{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 2.46
+redis_forwarding_state{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2"} 1.0
+redis_allocator_resident{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 6610944.0
+redis_used_memory_rss{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 7294976.0
+redis_rdb_changes_since_last_save{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_master_link_status{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 1.0
+redis_mem_fragmentation_ratio{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 2.35
+redis_keyspace_read_misses{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_aof_last_cow_size{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 0.0
+redis_maxmemory{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383",status="active"} 53477376.0
+dmcproxy_process_virtual_memory_bytes{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",proxy="3"} 344829952.0
+dmcproxy_process_resident_memory_bytes{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",proxy="3"} 13275136.0
+dmcproxy_process_start_time_seconds{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",proxy="3"} 1636050807.53
+dmcproxy_process_cpu_user_seconds_total{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",proxy="3"} 54.86
+dmcproxy_process_cpu_system_seconds_total{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",proxy="3"} 59.81
+dmcproxy_process_main_thread_cpu_user_seconds_total{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",proxy="3"} 0.02
+dmcproxy_process_main_thread_cpu_system_seconds_total{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",proxy="3"} 0.01
+dmcproxy_process_cpu_usage_percent{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",proxy="3"} 0.0
+dmcproxy_process_max_fds{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",proxy="3"} 500000.0
+dmcproxy_process_open_fds{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",proxy="3"} 73.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.005",node="3"} 0.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.01",node="3"} 0.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.025",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.05",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.075",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.1",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.25",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.5",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.75",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="1.0",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="2.5",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="5.0",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="7.5",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="10.0",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="+Inf",node="3"} 1.0
+collector_execution_time_seconds_count{collector="DMCCollector",node="3"} 1.0
+collector_execution_time_seconds_sum{collector="DMCCollector",node="3"} 0.011237859725952148
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.005",node="3"} 0.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.01",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.025",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.05",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.075",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.1",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.25",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.5",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.75",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="1.0",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="2.5",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="5.0",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="7.5",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="10.0",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="+Inf",node="3"} 1.0
+collector_execution_time_seconds_count{collector="NodeCollector",node="3"} 1.0
+collector_execution_time_seconds_sum{collector="NodeCollector",node="3"} 0.007205963134765625
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.005",node="3"} 9102.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.01",node="3"} 9109.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.025",node="3"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.05",node="3"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.075",node="3"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.1",node="3"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.25",node="3"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.5",node="3"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.75",node="3"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="1.0",node="3"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="2.5",node="3"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="5.0",node="3"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="7.5",node="3"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="10.0",node="3"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="+Inf",node="3"} 9111.0
+collector_execution_time_seconds_count{collector="ShardCollector",node="3"} 9111.0
+collector_execution_time_seconds_sum{collector="ShardCollector",node="3"} 9.736576795578003
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.005",node="3"} 0.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.01",node="3"} 0.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.025",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.05",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.075",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.1",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.25",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.5",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.75",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="1.0",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="2.5",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="5.0",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="7.5",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="10.0",node="3"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="+Inf",node="3"} 1.0
+collector_execution_time_seconds_count{collector="BDBCollector",node="3"} 1.0
+collector_execution_time_seconds_sum{collector="BDBCollector",node="3"} 0.011924028396606445
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.005",node="3"} 9105.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.01",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.025",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.05",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.075",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.1",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.25",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.5",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.75",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="1.0",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="2.5",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="5.0",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="7.5",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="10.0",node="3"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="+Inf",node="3"} 9110.0
+collector_execution_time_seconds_count{collector="LocalNodeCollector",node="3"} 9110.0
+collector_execution_time_seconds_sum{collector="LocalNodeCollector",node="3"} 8.178783416748047
+node_up{addr="192.168.0.4",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",cnm_version="6.2.4-54",node="3"} 1.0
+redis_process_virtual_memory_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383"} 111779840.0
+redis_process_resident_memory_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383"} 7294976.0
+redis_process_start_time_seconds{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383"} 1636050850.19
+redis_process_cpu_user_seconds_total{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383"} 96.08
+redis_process_cpu_system_seconds_total{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383"} 75.02
+redis_process_main_thread_cpu_user_seconds_total{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383"} 61.51
+redis_process_main_thread_cpu_system_seconds_total{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383"} 45.53
+redis_process_cpu_usage_percent{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383"} 0.0
+redis_process_max_fds{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383"} 10032.0
+redis_process_open_fds{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="3",redis="2",role="slave",slots="0-16383"} 55.0
+local_registry_generation_time_seconds_bucket{le="0.005",node="3"} 0.0
+local_registry_generation_time_seconds_bucket{le="0.01",node="3"} 9037.0
+local_registry_generation_time_seconds_bucket{le="0.025",node="3"} 9109.0
+local_registry_generation_time_seconds_bucket{le="0.05",node="3"} 9109.0
+local_registry_generation_time_seconds_bucket{le="0.075",node="3"} 9109.0
+local_registry_generation_time_seconds_bucket{le="0.1",node="3"} 9109.0
+local_registry_generation_time_seconds_bucket{le="0.25",node="3"} 9109.0
+local_registry_generation_time_seconds_bucket{le="0.5",node="3"} 9109.0
+local_registry_generation_time_seconds_bucket{le="0.75",node="3"} 9109.0
+local_registry_generation_time_seconds_bucket{le="1.0",node="3"} 9109.0
+local_registry_generation_time_seconds_bucket{le="2.5",node="3"} 9109.0
+local_registry_generation_time_seconds_bucket{le="5.0",node="3"} 9109.0
+local_registry_generation_time_seconds_bucket{le="7.5",node="3"} 9109.0
+local_registry_generation_time_seconds_bucket{le="10.0",node="3"} 9109.0
+local_registry_generation_time_seconds_bucket{le="+Inf",node="3"} 9109.0
+local_registry_generation_time_seconds_count{node="3"} 9109.0
+local_registry_generation_time_seconds_sum{node="3"} 67.63685512542725
+# Node stats: 2
+local_registry_generation_time_seconds_bucket{le="0.005",node="2"} 0.0
+local_registry_generation_time_seconds_bucket{le="0.01",node="2"} 3174.0
+local_registry_generation_time_seconds_bucket{le="0.025",node="2"} 9108.0
+local_registry_generation_time_seconds_bucket{le="0.05",node="2"} 9109.0
+local_registry_generation_time_seconds_bucket{le="0.075",node="2"} 9109.0
+local_registry_generation_time_seconds_bucket{le="0.1",node="2"} 9109.0
+local_registry_generation_time_seconds_bucket{le="0.25",node="2"} 9109.0
+local_registry_generation_time_seconds_bucket{le="0.5",node="2"} 9109.0
+local_registry_generation_time_seconds_bucket{le="0.75",node="2"} 9109.0
+local_registry_generation_time_seconds_bucket{le="1.0",node="2"} 9109.0
+local_registry_generation_time_seconds_bucket{le="2.5",node="2"} 9109.0
+local_registry_generation_time_seconds_bucket{le="5.0",node="2"} 9109.0
+local_registry_generation_time_seconds_bucket{le="7.5",node="2"} 9109.0
+local_registry_generation_time_seconds_bucket{le="10.0",node="2"} 9109.0
+local_registry_generation_time_seconds_bucket{le="+Inf",node="2"} 9109.0
+local_registry_generation_time_seconds_count{node="2"} 9109.0
+local_registry_generation_time_seconds_sum{node="2"} 93.35025548934937
+redis_aof_rewrite_in_progress{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_aof_rewrite_in_progress{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_mem_clients_normal{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 676656.0
+redis_mem_clients_normal{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 656160.0
+redis_mem_not_counted_for_evict{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_mem_not_counted_for_evict{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_total_forks{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 1.0
+redis_total_forks{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_sync_full{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 1.0
+redis_sync_full{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_keyspace_write_hits{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_keyspace_write_hits{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_used_memory{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 3195040.0
+redis_used_memory{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 2063424.0
+redis_total_error_replies{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 1.0
+redis_total_error_replies{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_rdb_last_cow_size{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 352256.0
+redis_rdb_last_cow_size{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_sync_partial_ok{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_sync_partial_ok{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_connected_clients{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 33.0
+redis_connected_clients{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 32.0
+redis_total_net_output_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 332708355.0
+redis_total_net_output_bytes{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 287743304.0
+redis_used_memory_scripts{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_used_memory_scripts{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_master_repl_offset{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 380646.0
+redis_master_repl_offset{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_lazyfreed_objects{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_lazyfreed_objects{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_current_cow_size{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_current_cow_size{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_repl_touch_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_repl_touch_bytes{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_maxclients{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 10000.0
+redis_maxclients{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 10000.0
+redis_rdb_last_save_time{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 1636050851.0
+redis_rdb_last_save_time{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 1636069651.0
+redis_total_commands_processed{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 353514.0
+redis_total_commands_processed{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 75986.0
+redis_instantaneous_ops_per_sec{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_instantaneous_ops_per_sec{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_aof_rewrites{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_aof_rewrites{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_mem_replication_backlog{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 1048576.0
+redis_mem_replication_backlog{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_module_fork_in_progress{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_module_fork_in_progress{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_total_connections_received{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 13645.0
+redis_total_connections_received{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 12702.0
+redis_pubsub_patterns{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_pubsub_patterns{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_keyspace_read_hits{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_keyspace_read_hits{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_max_process_mem{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 12614078624.0
+redis_max_process_mem{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 12612947008.0
+redis_sync_partial_err{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_sync_partial_err{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_allocator_allocated{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 3550120.0
+redis_allocator_allocated{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 2417784.0
+redis_mem_clients_slaves{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 20512.0
+redis_mem_clients_slaves{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_current_fork_perc{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_current_fork_perc{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_keyspace_write_misses{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_keyspace_write_misses{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_mem_aof_buffer{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_mem_aof_buffer{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_used_memory_peak{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 3904680.0
+redis_used_memory_peak{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 2835104.0
+redis_active_defrag_running{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_active_defrag_running{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_blocked_clients{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_blocked_clients{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_pubsub_channels{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_pubsub_channels{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_allocator_active{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 4108288.0
+redis_allocator_active{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 2961408.0
+redis_connected_slaves{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 1.0
+redis_connected_slaves{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_expire_cycle_cpu_milliseconds{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 188.0
+redis_expire_cycle_cpu_milliseconds{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 160.0
+redis_used_memory_lua{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 37888.0
+redis_used_memory_lua{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 37888.0
+redis_expired_keys{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_expired_keys{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_keys_trimmed{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_keys_trimmed{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_dump_payload_sanitizations{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_dump_payload_sanitizations{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_total_net_input_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 32254510.0
+redis_total_net_input_bytes{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 19343220.0
+redis_evicted_keys{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_evicted_keys{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_rdb_saves{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_rdb_saves{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_rdb_bgsave_in_progress{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_rdb_bgsave_in_progress{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_instantaneous_input_kbps{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.12
+redis_instantaneous_input_kbps{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.07
+redis_up{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 1.0
+redis_up{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 1.0
+redis_instantaneous_output_kbps{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 1.14
+redis_instantaneous_output_kbps{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 1.05
+redis_forwarding_state{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1"} 1.0
+redis_forwarding_state{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3"} 1.0
+redis_allocator_resident{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 6754304.0
+redis_allocator_resident{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 5652480.0
+redis_used_memory_rss{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 7544832.0
+redis_used_memory_rss{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 6918144.0
+redis_rdb_changes_since_last_save{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_rdb_changes_since_last_save{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_mem_fragmentation_ratio{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 2.36
+redis_mem_fragmentation_ratio{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 3.36
+redis_keyspace_read_misses{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_keyspace_read_misses{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_aof_last_cow_size{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 0.0
+redis_aof_last_cow_size{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 0.0
+redis_maxmemory{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383",status="active"} 53477376.0
+redis_maxmemory{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383",status="active"} 106954752.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.005",node="2"} 9107.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.01",node="2"} 9109.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.025",node="2"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.05",node="2"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.075",node="2"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.1",node="2"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.25",node="2"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.5",node="2"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="0.75",node="2"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="1.0",node="2"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="2.5",node="2"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="5.0",node="2"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="7.5",node="2"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="10.0",node="2"} 9110.0
+collector_execution_time_seconds_bucket{collector="LocalNodeCollector",le="+Inf",node="2"} 9110.0
+collector_execution_time_seconds_count{collector="LocalNodeCollector",node="2"} 9110.0
+collector_execution_time_seconds_sum{collector="LocalNodeCollector",node="2"} 8.929512739181519
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.005",node="2"} 0.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.01",node="2"} 0.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.025",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.05",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.075",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.1",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.25",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.5",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="0.75",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="1.0",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="2.5",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="5.0",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="7.5",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="10.0",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="DMCCollector",le="+Inf",node="2"} 1.0
+collector_execution_time_seconds_count{collector="DMCCollector",node="2"} 1.0
+collector_execution_time_seconds_sum{collector="DMCCollector",node="2"} 0.011677980422973633
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.005",node="2"} 9098.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.01",node="2"} 9105.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.025",node="2"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.05",node="2"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.075",node="2"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.1",node="2"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.25",node="2"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.5",node="2"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="0.75",node="2"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="1.0",node="2"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="2.5",node="2"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="5.0",node="2"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="7.5",node="2"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="10.0",node="2"} 9111.0
+collector_execution_time_seconds_bucket{collector="ShardCollector",le="+Inf",node="2"} 9111.0
+collector_execution_time_seconds_count{collector="ShardCollector",node="2"} 9111.0
+collector_execution_time_seconds_sum{collector="ShardCollector",node="2"} 16.14608597755432
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.005",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.01",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.025",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.05",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.075",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.1",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.25",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.5",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="0.75",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="1.0",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="2.5",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="5.0",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="7.5",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="10.0",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="NodeCollector",le="+Inf",node="2"} 1.0
+collector_execution_time_seconds_count{collector="NodeCollector",node="2"} 1.0
+collector_execution_time_seconds_sum{collector="NodeCollector",node="2"} 0.004928112030029297
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.005",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.01",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.025",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.05",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.075",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.1",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.25",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.5",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="0.75",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="1.0",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="2.5",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="5.0",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="7.5",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="10.0",node="2"} 1.0
+collector_execution_time_seconds_bucket{collector="BDBCollector",le="+Inf",node="2"} 1.0
+collector_execution_time_seconds_count{collector="BDBCollector",node="2"} 1.0
+collector_execution_time_seconds_sum{collector="BDBCollector",node="2"} 0.001077890396118164
+dmcproxy_process_virtual_memory_bytes{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",proxy="2"} 366915584.0
+dmcproxy_process_resident_memory_bytes{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",proxy="2"} 19369984.0
+dmcproxy_process_start_time_seconds{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",proxy="2"} 1636050808.74
+dmcproxy_process_cpu_user_seconds_total{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",proxy="2"} 115.93
+dmcproxy_process_cpu_system_seconds_total{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",proxy="2"} 130.37
+dmcproxy_process_main_thread_cpu_user_seconds_total{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",proxy="2"} 3.46
+dmcproxy_process_main_thread_cpu_system_seconds_total{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",proxy="2"} 10.12
+dmcproxy_process_cpu_usage_percent{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",proxy="2"} 0.1
+dmcproxy_process_max_fds{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",proxy="2"} 500000.0
+dmcproxy_process_open_fds{cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",proxy="2"} 153.0
+redis_process_virtual_memory_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383"} 111779840.0
+redis_process_virtual_memory_bytes{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383"} 108568576.0
+redis_process_resident_memory_bytes{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383"} 7487488.0
+redis_process_resident_memory_bytes{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383"} 6881280.0
+redis_process_start_time_seconds{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383"} 1636050850.31
+redis_process_start_time_seconds{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383"} 1636069650.79
+redis_process_cpu_user_seconds_total{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383"} 124.35
+redis_process_cpu_user_seconds_total{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383"} 93.84
+redis_process_cpu_system_seconds_total{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383"} 87.84
+redis_process_cpu_system_seconds_total{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383"} 68.91
+redis_process_main_thread_cpu_user_seconds_total{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383"} 80.55
+redis_process_main_thread_cpu_user_seconds_total{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383"} 52.91
+redis_process_main_thread_cpu_system_seconds_total{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383"} 54.49
+redis_process_main_thread_cpu_system_seconds_total{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383"} 38.33
+redis_process_cpu_usage_percent{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383"} 0.0
+redis_process_cpu_usage_percent{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383"} 0.1
+redis_process_max_fds{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383"} 10032.0
+redis_process_max_fds{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383"} 10032.0
+redis_process_open_fds{bdb="10696368",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="1",role="master",slots="0-16383"} 58.0
+redis_process_open_fds{bdb="10697050",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",node="2",redis="3",role="master",slots="0-16383"} 56.0
+node_up{addr="192.168.0.3",cluster="c16664.eu-west1-2.gcp.cloud.rlrcp.com",cnm_version="6.2.4-54",node="2"} 1.0

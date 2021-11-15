@@ -1,0 +1,24 @@
+version: '3'
+services:
+    prometheus-server:
+        image: prom/prometheus
+        ports:
+            - 9090:9090
+        volumes:
+            - ./prometheus.yml:/etc/prometheus/prometheus.yml
+
+    grafana-ui:
+        image: grafana/grafana
+        ports:
+            - 3000:3000
+        environment:
+            - GF_SECURITY_ADMIN_PASSWORD=secret
+        links:
+            - prometheus-server:prometheus
+
+    rec-cloudname:
+        build: .
+        image: rec-cloudname
+        ports:
+        - "8070:5000" #expose python Flask default port to 8070 like Redis Enterprise Cloud Prometheus endpoint
+
